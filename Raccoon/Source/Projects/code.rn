@@ -1,2 +1,2 @@
-int test = "Hello world"
+test = "Hello world"
 bring test
