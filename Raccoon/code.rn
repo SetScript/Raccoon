@@ -1,6 +1,2 @@
-# Русская рулетка на Raccoon!
-
-arr russianroulet = [
-    "Ты убит.", "Ты убит.", "ты убит.", "тебе повезло."
-]
-bring russianroulet.sample
+bring "Hello world!"
+    #Hello world on raccoon!
